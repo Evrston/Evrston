@@ -1,4 +1,4 @@
-# Hi, I'm Everton Soza 👋
+# Hi, I'm Everton Souza 👋
 
 ## Intro
 
