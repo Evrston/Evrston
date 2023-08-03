@@ -6,7 +6,7 @@ I started Programming in 2022, I'm still studying.
 
 - Javscript (Concluded)
 - HTML/CSS (Concluded)
-- React.js (in Progress...)
+- React.js (Concluded)
 
 Other languages ​​are to come...
 
