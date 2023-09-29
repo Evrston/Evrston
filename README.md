@@ -2,7 +2,7 @@
 
 ## Intro
 
-I started Programming in 2022, I'm still studying.
+I started Programming, I'm still studying.
 
 - Javscript (Concluded)
 - HTML/CSS (Concluded)
@@ -10,6 +10,5 @@ I started Programming in 2022, I'm still studying.
 
 Other languages ​​are to come...
 
-## My Course
 
-learning to code with - https://www.mapadaprogramacao.com.br/
+
