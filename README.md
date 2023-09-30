@@ -2,7 +2,7 @@
 
 ## Intro
 
-I started Programming, I'm still studying.
+I started Programming in 2023, I'm still studying.
 
 - Javscript (Concluded)
 - HTML/CSS (Concluded)
